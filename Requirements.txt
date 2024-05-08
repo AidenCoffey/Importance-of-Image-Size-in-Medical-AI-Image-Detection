@@ -1,0 +1,9 @@
+tensorflow==2.16
+python==3.10.6
+torch==2.3
+cuda==12.4
+cudnn==8.4
+wsl2
+ultralytics==8.2.4
+roboflow-library
+yolov8
